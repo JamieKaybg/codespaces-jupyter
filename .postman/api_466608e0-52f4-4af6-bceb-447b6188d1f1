@@ -9,6 +9,7 @@ id = 466608e0-52f4-4af6-bceb-447b6188d1f1
 
 [config.relations.collections]
 rootDirectory = postman/collections
+files[] = {"id":"30775600-58b84224-6fa8-4a96-8bc2-1a994f9e6ac4","path":"Modash.io API (Public).json","metaData":{}}
 
 [config.relations.collections.metaData]
 
